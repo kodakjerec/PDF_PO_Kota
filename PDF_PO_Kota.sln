@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 14
+# VisualStudioVersion = 14.0.23107.0
+# MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_PO_Kota", "PDF_PO_Kota\PDF_PO_Kota.csproj", "{284EE752-99E8-4807-8464-EA8480BC42B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284EE752-99E8-4807-8464-EA8480BC42B8}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{284EE752-99E8-4807-8464-EA8480BC42B8}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{284EE752-99E8-4807-8464-EA8480BC42B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284EE752-99E8-4807-8464-EA8480BC42B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
